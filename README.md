@@ -34,7 +34,10 @@ Portainer is recommended, as it is the easiest installation method.
 Client:
 
 ```jvm_args
--javaagent:mod-loading-screen-1.0.4.jar -Dmax.bg.threads=4 -XX:+UnlockDiagnosticVMOptions -XX:+AllowArchivingWithJavaAgent -XX:SharedArchiveFile="appcds_cache.jsa" -XX:+AutoCreateSharedArchive
+-javaagent:mod-loading-screen-1.0.4.jar -Dmax.bg.threads=4 -Xlog:async
+-XX:+UseZGC -XX:+ZGenerational -XX:ZFragmentationLimit=5 -XX:SoftMaxHeapSize=4G
+-XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+UseLargePages -XX:+UseStringDeduplication
+-XX:+UnlockDiagnosticVMOptions -XX:+AllowArchivingWithJavaAgent -XX:SharedArchiveFile="appcds_cache.jsa" -XX:+AutoCreateSharedArchive
 ```
 
 ## Contributing
