@@ -1,0 +1,13 @@
+name = "More Cursors"
+filename = "MoreCursors-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dMSwti7t/versions/SYGgbnvS/MoreCursors-1.0.3.jar"
+hash-format = "sha1"
+hash = "abd4c86b2a4e7b646a50736791983a9dae3545b4"
+
+[update]
+[update.modrinth]
+mod-id = "dMSwti7t"
+version = "SYGgbnvS"

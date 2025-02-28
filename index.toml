@@ -1049,6 +1049,11 @@ hash = "4aabdd45450a1475873d38bb8de88bf4e6fc7467a9a1b10fdd1bb80f0842ce17"
 metafile = true
 
 [[files]]
+file = "mods/morecursors.pw.toml"
+hash = "3b1637dd5d4ba14ad50e0da75aee851eda56d6e1873a42d444a9b2b0697f5e9c"
+metafile = true
+
+[[files]]
 file = "mods/moremcmeta.pw.toml"
 hash = "438c0f91ed07df0b99eebe0ab63d2101c8258011ee8e4d11e56eda596b22b652"
 metafile = true
