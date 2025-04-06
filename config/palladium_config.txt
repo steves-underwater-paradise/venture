@@ -1,0 +1,15 @@
+shaderUniformCaching:true
+enableShaderAttributeCaching:true
+enableMipmapCaching:true
+fastShaderPrograms:false
+resourceKeyDedup:true
+rl_dedup:"all"
+quadsDedup:true
+lightweightWolfAndCatAttackAi:true
+lightweightWolfAndRabbitFleeAi:true
+composterFix:true
+disableDataFixers:true
+fastBitSets:true
+fastPos:true
+chunkOptimizations:true
+nbtOptimizations:true

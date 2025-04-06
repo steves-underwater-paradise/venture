@@ -185,6 +185,10 @@ file = "config/ok_zoomer/config.toml"
 hash = "fa0059344bcf5e34015ee896e19966b55028ed3bc9f735a49eeb4d185f64714f"
 
 [[files]]
+file = "config/palladium_config.txt"
+hash = "1835e6f69ac9e51e79b8f99b2180bdd7ec96d0263c439429714319e3e9916dcc"
+
+[[files]]
 file = "config/passablefoliage-common.yaml"
 hash = "bd39f0beac3ff5ed7078b65a53a5461110c4267d256069e6ff3b1320dbbb47f4"
 
