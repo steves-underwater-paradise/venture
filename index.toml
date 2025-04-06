@@ -321,11 +321,6 @@ file = "config/yosbr/too_many_shortcuts.json"
 hash = "6e264d0d2236a468f7edadedd767a8dff898fd2b7a29a4677023a96aed5ff619"
 
 [[files]]
-file = "mod-loading-screen.pw.toml"
-hash = "55f7e03688f05d9f5032aceefd9b9dcf337a30974164c447a34419e77f62d132"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "dd73942366cfb65e4511422f5921d878ab9aa0e3435a4d5d0ddbf38a1c911f22"
 metafile = true
@@ -488,6 +483,10 @@ metafile = true
 file = "mods/bl4cks-sit.pw.toml"
 hash = "88f0a020197fb516f215e798ab688990030b261d76287b7d34ed8ffa8bc7fd2a"
 metafile = true
+
+[[files]]
+file = "mods/blinkload-fabric-1.2.1+mc1.21-1.21.1.jar"
+hash = "a7abc38205b070a1bf83eef003815e1948608bb8fe5d3688c234c3e118d49feb"
 
 [[files]]
 file = "mods/bluemap.pw.toml"
@@ -1279,11 +1278,6 @@ hash = "257ea026e22283419d8ef3ad6d958a561bee04653b8a634edc2b50f434e8f07b"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "35d3cdb2869fbce36254a790292e0aab71b04b70f6eb378e03fd09c92c241338"
-metafile = true
-
-[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "b3c5a875a20aa12e1567bba1e95c099c5248917776a6118ef50ea74d1613a5c2"
 metafile = true
@@ -1391,6 +1385,10 @@ metafile = true
 file = "mods/spiders-produce-webs.pw.toml"
 hash = "044ba099d1f30ca2bcb1b47cab1a126c08e23c517afe1f99898716a520eb0907"
 metafile = true
+
+[[files]]
+file = "mods/stevesearlyloadingscreen-1.0.0-fabric.jar"
+hash = "3bbe07eca5e76aa0ca703e892628cf4e2bc988a530f4326e3d3efde9addb13bf"
 
 [[files]]
 file = "mods/stonecutter-damage.pw.toml"
