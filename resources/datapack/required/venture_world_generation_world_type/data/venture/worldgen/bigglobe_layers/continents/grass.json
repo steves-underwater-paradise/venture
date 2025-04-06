@@ -1,0 +1,9 @@
+{
+  "type": "simple_2d",
+  "state": "'minecraft:grass_block'",
+  "valid": {
+    "max_y": "`bigglobe:overworld/sea_level` + 1",
+    "min_y": "`bigglobe:overworld/sea_level`"
+  },
+  "children": []
+}

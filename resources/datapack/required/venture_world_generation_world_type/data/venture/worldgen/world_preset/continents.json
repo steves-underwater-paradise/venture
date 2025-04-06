@@ -15,29 +15,7 @@
           "sea_level": 0
         },
         "world_traits": "venture:continents",
-        "layer": {
-          "state": "'minecraft:air'",
-          "children": [
-            {
-              "type": "simple_2d",
-              "state": "'minecraft:stone'",
-              "valid": {
-                "max_y": "`bigglobe:overworld/sea_level`",
-                "min_y": "-1024"
-              },
-              "children": []
-            },
-            {
-              "type": "simple_2d",
-              "state": "'minecraft:grass_block'",
-              "valid": {
-                "max_y": "`bigglobe:overworld/sea_level` + 1",
-                "min_y": "`bigglobe:overworld/sea_level`"
-              },
-              "children": []
-            }
-          ]
-        },
+        "layer": "venture:continents/root",
         "feature_dispatcher": {
           "rock_replacers": [
             "bigglobe:overworld/bedrock"

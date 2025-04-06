@@ -1,0 +1,9 @@
+{
+  "type": "simple_2d",
+  "state": "'minecraft:stone'",
+  "valid": {
+    "max_y": "`bigglobe:overworld/sea_level`",
+    "min_y": "-1024"
+  },
+  "children": []
+}
