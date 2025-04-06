@@ -1391,11 +1391,6 @@ file = "mods/stevesearlyloadingscreen-1.0.0-fabric.jar"
 hash = "3bbe07eca5e76aa0ca703e892628cf4e2bc988a530f4326e3d3efde9addb13bf"
 
 [[files]]
-file = "mods/stonecutter-damage.pw.toml"
-hash = "5d4d890f2e884e03d0b26292611a71deb6fe80784c16c761497648a9ccb69a63"
-metafile = true
-
-[[files]]
 file = "mods/suppressopengl1280.pw.toml"
 hash = "f36c3d7a610de807483dc2766611d2c28b361aa8c2314e70cb3514228d03c790"
 metafile = true
