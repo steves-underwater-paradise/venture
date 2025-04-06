@@ -1,13 +1,13 @@
 name = "Spiders Produce Webs"
-filename = "spidersproducewebs-1.21.1-3.5.jar"
+filename = "spidersproducewebs-1.21.1-3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NoznOJXq/versions/RLYrWplN/spidersproducewebs-1.21.1-3.5.jar"
+url = "https://cdn.modrinth.com/data/NoznOJXq/versions/cYCy5NTm/spidersproducewebs-1.21.1-3.6.jar"
 hash-format = "sha1"
-hash = "ef1af5308ec85dcd75bfdce9f161f139e0225ff7"
+hash = "e19d42964ceac9aba95f7219ee5156b264ba5f70"
 
 [update]
 [update.modrinth]
 mod-id = "NoznOJXq"
-version = "RLYrWplN"
+version = "cYCy5NTm"

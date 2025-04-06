@@ -1,13 +1,13 @@
 name = "Chunky"
-filename = "Chunky-1.4.16.jar"
+filename = "Chunky-Fabric-1.4.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fALzjamp/versions/dPliWter/Chunky-1.4.16.jar"
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar"
 hash-format = "sha1"
-hash = "2b68d2bd507cd9f45fdd637ba32e8a47de6bda35"
+hash = "6c8098fc0f124c7b6492de60db0108747f7f9821"
 
 [update]
 [update.modrinth]
 mod-id = "fALzjamp"
-version = "dPliWter"
+version = "RVFHfo1D"

@@ -1,16 +1,16 @@
 name = "Better Clouds"
-filename = "better-clouds-1.7.6+1.21-fabric.jar"
+filename = "better-clouds-1.7.13+1.21.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5srFLIaK/versions/WnTaUmEM/better-clouds-1.7.6%2B1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/5srFLIaK/versions/NEq3pK8p/better-clouds-1.7.13%2B1.21.1-fabric.jar"
 hash-format = "sha1"
-hash = "66d01a0ceca1ad40cfaa76c7408dafb5e36840be"
+hash = "2cc2164521fcdecb8620d4926a50d6d11d9db8d6"
 
 [update]
 [update.modrinth]
 mod-id = "5srFLIaK"
-version = "WnTaUmEM"
+version = "NEq3pK8p"
 
 [option]
 optional = true

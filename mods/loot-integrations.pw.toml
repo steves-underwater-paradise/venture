@@ -1,13 +1,13 @@
 name = "Loot Integrations"
-filename = "lootintegrations-fabric-1.21-4.0.jar"
+filename = "lootintegrations-fabric-1.21-4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "64942d1bbcfa376e504b2e39ed85cf3a1dea5af3"
+hash = "de73a70b5c29a9d347c8e47624cbf53fa056ca65"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5981116
+file-id = 6351443
 project-id = 580689

@@ -1,16 +1,16 @@
 name = "Vivecraft"
-filename = "vivecraft-1.21.1-1.2.2-fabric.jar"
+filename = "vivecraft-1.21.1-1.2.5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/HYY3qIKx/vivecraft-1.21.1-1.2.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/3LsuBkrw/vivecraft-1.21.1-1.2.5-fabric.jar"
 hash-format = "sha1"
-hash = "17376287dbf3a5c0b61fe58549dc0f35f6ddf063"
+hash = "6966a2fe3f4cade0e54a8f2993811f71ec1734a2"
 
 [update]
 [update.modrinth]
 mod-id = "wGoQDPN5"
-version = "HYY3qIKx"
+version = "3LsuBkrw"
 
 [option]
 optional = true

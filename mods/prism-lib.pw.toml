@@ -1,13 +1,13 @@
 name = "Prism"
-filename = "Prism-1.21-fabric-1.0.9.jar"
+filename = "Prism-1.21.1-fabric-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/hIejSxjq/Prism-1.21-fabric-1.0.9.jar"
+url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/obM5d9Uv/Prism-1.21.1-fabric-1.0.11.jar"
 hash-format = "sha1"
-hash = "897db862307353e7eb9d0dd37fb6b43bdd06f6b5"
+hash = "feb245033bce5560ad0243b0ff519590ea9e3664"
 
 [update]
 [update.modrinth]
 mod-id = "1OE8wbN0"
-version = "hIejSxjq"
+version = "obM5d9Uv"
