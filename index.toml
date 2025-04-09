@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "1c76fa0b91af3d556ac5cdd29faac47250a75c5ce4f4357a76857961a8255dd7"
+hash = "c8e04897161761ada3f2c32dda900d2064dccf26f8f4e7563958ec9c0eaa10df"
 metafile = true
 
 [[files]]
@@ -1841,30 +1841,6 @@ hash = "3927c159b0c308b0dc5d85d56c63838b682fa1854bb3f76c42e62cffa70c8749"
 [[files]]
 file = "resources/datapack/required/venture_structure_removal/pack.mcmeta"
 hash = "4ec6dfd2bef3d41f93954211c974e882fdee7b7630870a4848a75f1cffb64ed7"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation/data/bigglobe/bigglobe_script_files/world_preset/overworld_surface_placement.gs"
-hash = "5b94adc0187abfe7f274c55821132aac14a820cfe811699f1926508fdcc5b283"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/deep_ocean.json"
-hash = "8d2a2ead624d257482b23fee1503a38e2c13b5f34062ea90422c89f2325a2875"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/ocean.json"
-hash = "8161bcd8fdc593196b4f17d4f6aa4abb3ef6ec5e7487eff5b3375b550a988f1c"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/river.json"
-hash = "5e10d5403d6d48205c2746d3ead06332d514fc6d15e843b2e040d6d314a8a7fd"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation/data/bigglobe/worldgen/biome/shallow_ocean.json"
-hash = "1c32b445c2901ec6ac1ad792ae68cc879583b160209805fdcdef59fbcba494cf"
-
-[[files]]
-file = "resources/datapack/required/venture_world_generation/pack.mcmeta"
-hash = "2cd4e34c0a7a38588447f5b2f4e5135904530f15c45733826f7dbcb020958e20"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_altitude/data/venture/worldgen/bigglobe_column_value/continents/altitude.json"
