@@ -1,0 +1,5 @@
+{
+  "chunkRadius": 16,
+  "chunkUpdatesRescanAmount": 50,
+  "debug": false
+}

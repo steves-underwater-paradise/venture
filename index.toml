@@ -321,6 +321,10 @@ file = "config/yosbr/config/textile_backup.json5"
 hash = "72efc58ac0459993ae6626220ac72737556d4a7a562756c89129df73e2336bdd"
 
 [[files]]
+file = "config/yosbr/config/tidal.json"
+hash = "690f39936f6279a267fee88e3a0842eb78883619960d75749154f434a0c35792"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "9759aa0acb76f665300438100777ff5cefb6ba5b457163748e574dcff4b1dc34"
 
