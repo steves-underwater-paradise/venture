@@ -1,0 +1,13 @@
+name = "Buoys"
+filename = "buoys-0.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dFz831HS/versions/dAVfI3Io/buoys-0.1.1%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "e8d4238765c2e7de9255726401feb55c1a8386f2"
+
+[update]
+[update.modrinth]
+mod-id = "dFz831HS"
+version = "dAVfI3Io"

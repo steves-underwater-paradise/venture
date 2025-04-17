@@ -525,6 +525,11 @@ hash = "f50e043111c4fb7af596c3711fab53a838df333928c5b1cebd61faef1045e979"
 metafile = true
 
 [[files]]
+file = "mods/boatism.pw.toml"
+hash = "980c11b368cb9d6dd26bea5bc26e25b28e446a6055d1434eacafcf5800b498ab"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "22dcdc8c470e0cd8fd34c758483c75623dd8963ed5b5024c3cbe478a528fdb87"
 metafile = true
@@ -537,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/bookmark.pw.toml"
 hash = "3d3ff8ec2b09bca185deffd34337acafc40001f867eeb40b213056f6cc257f8e"
+metafile = true
+
+[[files]]
+file = "mods/buoys.pw.toml"
+hash = "19c694cb644a4b546ea20708e7fbe7f51be565ee522a11c667ed2ec6685fa382"
 metafile = true
 
 [[files]]
