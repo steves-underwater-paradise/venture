@@ -512,11 +512,6 @@ hash = "d873c05254ab934e46abaa1f99bfe9c3848922b0a2bf16dcd6997ed8506841c5"
 metafile = true
 
 [[files]]
-file = "mods/blur-plus.pw.toml"
-hash = "4f1b12a40251eb9cee6edbafb43387bf82bed56f272b6d012f5fad61538b0a10"
-metafile = true
-
-[[files]]
 file = "mods/bmarker.pw.toml"
 hash = "f50e043111c4fb7af596c3711fab53a838df333928c5b1cebd61faef1045e979"
 metafile = true
@@ -866,6 +861,11 @@ hash = "0d53c09689ae7e0c599fea7e6614d264840592467715c9e7db0463f5b33af0f3"
 metafile = true
 
 [[files]]
+file = "mods/fog.pw.toml"
+hash = "3824dc86a7cabe111603feebb9f25061dbd6e0bce72b5fc98af10b4267427308"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "05c1db8ed5aab530245253f8a949d918bd8708ff8b44c5a51e1fc9dd3af1e949"
 metafile = true
@@ -923,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
+metafile = true
+
+[[files]]
+file = "mods/immersive-hotbar.pw.toml"
+hash = "e2a9e2483588f1f631aa0e08a3cc4fb2cef3aacfef40d06cfc2a9c03dfdb4b9c"
 metafile = true
 
 [[files]]
@@ -1431,6 +1436,11 @@ metafile = true
 [[files]]
 file = "mods/through-the-lily-pads-gently.pw.toml"
 hash = "778b5d68762efb3313d95546c4561de4c43c0b09335206b39e3e9d179e82b397"
+metafile = true
+
+[[files]]
+file = "mods/tidal-waves.pw.toml"
+hash = "d0511f452068d0bc4c6182c9ec2426f129f7216f0623ca9abea410bdfe9b1acd"
 metafile = true
 
 [[files]]
