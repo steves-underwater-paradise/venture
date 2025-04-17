@@ -2029,7 +2029,7 @@ hash = "8bc11adba2bac36a64198d22272ab7a278ffa0b8da4e2a68ce28ad3243d59ccc"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_script_files/continents/trees/white_spruce.gs"
-hash = "b227abf3b629de56040c659dfd8c1652fc28b7ec70700cab089deecf4f86d1d9"
+hash = "c77e208c5dcdf124910c96eaca1f5f17d15fdfa7d945aa1fbbb5d48701dd008b"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_trees/data/venture/bigglobe_wood_palettes/continents/oak_skinny.json"

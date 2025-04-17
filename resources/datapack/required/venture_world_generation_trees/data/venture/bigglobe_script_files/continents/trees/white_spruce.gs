@@ -4,17 +4,23 @@ for (int y in range[originY, originY + treeHeight):
     ; Place the trunk
     setBlockState(originX, y, originZ, 'minecraft:spruce_log')
 
-    ; Place the leaves in a circular ring around them
-    double fraction = double(y) / double(treeHeight)
-    int leavesRadius = roundInt(-3.0L * pow(fraction, 2.0L) - 0.1L * fraction + 4.0L)
-    ; Skip placing leaves for even y values
-    boolean isYEven = y % 2 == 0
-    if (isYEven:
-        leavesRadius = leavesRadius / 2
+    int altitude_corrected_y = y - roundInt(`venture:continents/altitude`)
+    if (altitude_corrected_y == 0:
+        continue()
     )
 
-    for (int x in range[originX - leavesRadius, originX + leavesRadius]:
-        for (int z in range[originZ - leavesRadius, originZ + leavesRadius]:
+    ; Place the leaves in a circular ring around them
+    double fraction = double(altitude_corrected_y) / double(treeHeight)
+    double leavesRadius = -3.0L * fraction ^ 2 - 0.1L * fraction + 4.0L
+    int leavesRadiusRounded = roundInt(leavesRadius)
+    boolean isYEven = y & 1 == 0
+    if (isYEven:
+        ; Place half sized leaf rings for even Y values
+        leavesRadius = leavesRadius >> 1
+    )
+
+    for (int x in range[originX - leavesRadiusRounded, originX + leavesRadiusRounded]:
+        for (int z in range[originZ - leavesRadiusRounded, originZ + leavesRadiusRounded]:
             if (x == originX && z == originZ:
                 continue()
             )
