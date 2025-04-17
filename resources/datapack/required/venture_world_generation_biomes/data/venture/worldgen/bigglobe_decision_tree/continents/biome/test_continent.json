@@ -1,0 +1,8 @@
+{
+  "condition": {
+    "type": "script",
+    "script": "`venture:continents/continent`"
+  },
+  "if_true": "venture:continents/biome/continent",
+  "if_false": "venture:continents/biome/empty"
+}

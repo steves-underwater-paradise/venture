@@ -1,0 +1,18 @@
+{
+	"type": "script",
+	"params": {
+		"type": "boolean",
+		"is_3d": false
+	},
+	"script": [
+    "(worldSeed # 16x990A8C08A1355BEAUL).newSeed(",
+    "ScriptedColumn column = (",
+    "`venture:continents/continent_lod_1`.center_column.",
+    "`venture:continents/continent_lod_0`.center_column",
+    "),,",
+    "column.x,",
+    "column.z",
+    ")",
+    ".nextDouble() > 0.90L"
+  ]
+}

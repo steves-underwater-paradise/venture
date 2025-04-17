@@ -1,0 +1,14 @@
+{
+  "type": "voronoi",
+  "params": {
+    "type": {
+      "type": "voronoi",
+      "name": "ContinentLod1"
+    },
+    "is_3d": false
+  },
+  "diagram": {
+    "distance": 1000,
+    "variation": 1000
+  }
+}

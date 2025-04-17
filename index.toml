@@ -1844,7 +1844,7 @@ hash = "4ec6dfd2bef3d41f93954211c974e882fdee7b7630870a4848a75f1cffb64ed7"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_altitude/data/venture/worldgen/bigglobe_column_value/continents/altitude.json"
-hash = "eca3067c7d7ad648f3f7a695f29d8b990b9d71fc840f31ae8905ae6da7c206a8"
+hash = "5f899d9503f53fe7bb200255dafef5c83111358747c7bbc8d8e50022111e4266"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_altitude/pack.mcmeta"
@@ -1856,11 +1856,23 @@ hash = "0461d95a1a562eada048c4c97a8694cd12f70938521e70a5b87e3dda7bbd2f47"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/bigglobe_column_value/continents/biome.json"
-hash = "a154772c89886e5a12c7d8ad32c3916812a2c4f5d17c7de8947ad524aaf63df8"
+hash = "320312409f37faf721842ad82273d7b8cda98963e178ac1e4434ed9de022203d"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/bigglobe_decision_tree/continents/biome/continent.json"
+hash = "45ef9af24f245dcebf639124a23180e7e67c5bbe27f67b625fddeca715eb234d"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/bigglobe_decision_tree/continents/biome/empty.json"
 hash = "465d00c743025a988ab4eab546f0874de78251029c6cbf6d65b661be9063d41b"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/bigglobe_decision_tree/continents/biome/test_continent.json"
+hash = "3337c664a30a1e95c92aa12372def9e5b4b14d3724a03e2a736a1e8ff9f8357e"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/biome/continent.json"
+hash = "4bdbefcb2fd807f6a349444aacc28eb46aecfc0c5665d94840ac70dc548f7d53"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_biomes/data/venture/worldgen/biome/empty.json"
@@ -1869,6 +1881,22 @@ hash = "4bdbefcb2fd807f6a349444aacc28eb46aecfc0c5665d94840ac70dc548f7d53"
 [[files]]
 file = "resources/datapack/required/venture_world_generation_biomes/pack.mcmeta"
 hash = "65a95589e99d1751e2d7e84a59fc35404749b7b003cfcc0b544f9e22d18c65c2"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_continent_voronoi/data/venture/worldgen/bigglobe_column_value/continents/continent.json"
+hash = "77773c00e54762a0abd17fc50cce874ad9465108cacab76f35dd44d89e6345a4"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_continent_voronoi/data/venture/worldgen/bigglobe_column_value/continents/continent_lod_0.json"
+hash = "7dc365801fe008fed2bed742264cc686d4346447e0603bd2d1306d8d7b82ddbe"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_continent_voronoi/data/venture/worldgen/bigglobe_column_value/continents/continent_lod_1.json"
+hash = "2fab3c536ff5c0904c9bb87c1895097cda6d1dd298ba35665e8db4540171e3cf"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_continent_voronoi/pack.mcmeta"
+hash = "3ed98652fbf4119738097cae65fc639980f11b87e5f9b4306a155884ff417527"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_default_world_types_removal/data/minecraft/tags/worldgen/world_preset/normal.json"
@@ -1996,7 +2024,7 @@ hash = "cee22a0b9e4e55bbc51481473da4541ea8152fe4d05e011c5c53e84e8d3b0162"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/bigglobe_layers/continents/grass.json"
-hash = "cb3ad7ce172f7f7a4cce40d0fc622bc6c8b5e4dc7a3b8e1b70a245f01e9fb32d"
+hash = "27c8b92b53a52b01d43dedede0d0280dca714ddb31fc0d572de4493e00be22ef"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_world_type/data/venture/worldgen/bigglobe_layers/continents/root.json"

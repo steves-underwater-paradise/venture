@@ -1,8 +1,10 @@
 {
   "type": "simple_2d",
-  "state": "'minecraft:grass_block'",
+  "state": [
+    "`venture:continents/continent` ? 'minecraft:green_wool' : 'minecraft:red_wool'"
+  ],
   "valid": {
-    "max_y": "`bigglobe:overworld/sea_level` + 1",
+    "max_y": "`bigglobe:overworld/sea_level` + roundInt(`venture:continents/altitude`)",
     "min_y": "`bigglobe:overworld/sea_level`"
   },
   "children": []

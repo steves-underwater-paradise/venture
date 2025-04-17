@@ -4,6 +4,6 @@
     "type": "biome",
     "is_3d": true
   },
-  "root": "venture:continents/biome/empty",
+  "root": "venture:continents/biome/test_continent",
   "cache": false
 }
