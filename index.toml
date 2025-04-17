@@ -37,6 +37,10 @@ file = "config/carpet/default_carpet.conf"
 hash = "b9f7e444e92a9f4e67d01741f5853271744e278d6996a100f8f590c6fa3c90aa"
 
 [[files]]
+file = "config/connectiblechains.toml"
+hash = "8f5b0566c0b547ad7c3d6db76a6f261a3d6f5456b370de2b7d48aee64a885d26"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "9f316d58ad8c5332cefa664e4189cf2da839f5b9687c6f21c6dd943ce36f9212"
 
@@ -618,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/condensed-creative.pw.toml"
 hash = "8012687bbae21adfac692a004c7983eb94f6eddd4cc22d139d4f538b0f6db750"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "9023e0f880c0d12d1c1402f1f1d7adad1aa5942dffd1c07245c3b8b4bc75f470"
 metafile = true
 
 [[files]]
@@ -1330,6 +1339,11 @@ hash = "2cbdc9bd003f72e7f9fd880da248ecc1215ca30551325951367d90075f21b0c1"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "3e60509ab94840b69c87de086c1f1bbf914cc76c283c820773ffc5fe38a83e57"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "2447d28a410c32be9675a8305128f8882ce30146d957e727dc59cb6fa8b40181"
 metafile = true
@@ -1530,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zipline.pw.toml"
+hash = "d4a1efb1aaec9ccc6359e93cd101dc1734e944037afc3c113d435b2db331864c"
 metafile = true
 
 [[files]]
