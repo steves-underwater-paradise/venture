@@ -12,13 +12,13 @@ for (int y in range[originY, originY + treeHeight):
     ; Place the leaves in a circular ring around them
     double fraction = double(altitude_corrected_y) / double(treeHeight)
     double leavesRadius = -3.0L * fraction ^ 2 - 0.1L * fraction + 4.0L
-    int leavesRadiusRounded = roundInt(leavesRadius)
     boolean isYEven = y & 1 == 0
     if (isYEven:
         ; Place half sized leaf rings for even Y values
         leavesRadius = leavesRadius >> 1
     )
 
+    int leavesRadiusRounded = roundInt(leavesRadius)
     for (int x in range[originX - leavesRadiusRounded, originX + leavesRadiusRounded]:
         for (int z in range[originZ - leavesRadiusRounded, originZ + leavesRadiusRounded]:
             if (x == originX && z == originZ:
@@ -35,7 +35,7 @@ for (int y in range[originY, originY + treeHeight):
                 continue()
             )
 
-            setBlockState(x, y, z, 'minecraft:spruce_leaves')
+            setBlockState(x, y, z, BlockState('minecraft:spruce_leaves', distance: abs(x - originX) + abs(z - originZ)))
         )
     )
 )
