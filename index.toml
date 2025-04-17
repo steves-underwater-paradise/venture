@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "e5b044a0f63a36dd2dd43dcf82c7722a94b9a52ef00557abb7dcdb11a82b9f3e"
+
+[[files]]
 file = "config/beansbackpacks/client.json5"
 hash = "28a2838e68180663d147b9391e5509e7905f3f26d19136c18f8b9018a8b875db"
 
@@ -332,6 +336,16 @@ metafile = true
 [[files]]
 file = "mods/DistantHorizons-2.3.0-b-dev-1.21.1-fabric-neoforge.jar"
 hash = "db274da13e1bda5d0d34eca515b81a21fc6390b2046b71938c8ef6ee6f23325a"
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "f0ece4807196728deea3f738d155f8a294c17d31816125c6b457cf10d133c701"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "9e984ec5c1fe2042c4a0aee7b95a70bc9d82bce9ce792b08eb9b2d8d934ce646"
+metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -1432,11 +1446,6 @@ metafile = true
 [[files]]
 file = "mods/too-many-shortcuts.pw.toml"
 hash = "bcec6528dcc915d58ccfc14540e03ca0db203806481a98b1f4720c6a93c2ef6c"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
 metafile = true
 
 [[files]]
