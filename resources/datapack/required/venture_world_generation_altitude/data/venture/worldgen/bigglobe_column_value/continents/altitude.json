@@ -10,6 +10,6 @@
     ")",
     "",
     "double distance_to_nearest_continent = `venture:continents/continent_lod_0`.soft_distance",
-    "return(1.0L + (1.0L - distance_to_nearest_continent) * 100.0L)"
+    "return(1.0L + (1.0L - distance_to_nearest_continent) * 100.0L + `venture:continents/hilliness`)"
   ]
 }

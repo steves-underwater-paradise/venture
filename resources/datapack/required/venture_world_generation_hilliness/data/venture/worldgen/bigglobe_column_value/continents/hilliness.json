@@ -1,0 +1,10 @@
+{
+  "type": "script",
+  "params": {
+    "type": "double",
+    "is_3d": false
+  },
+  "script": [
+    "return(mixLinear(`venture:continents/hilliness_layer_1`, `venture:continents/hilliness_layer_2`, `venture:continents/hilliness_type`) * 100.0L)"
+  ]
+}

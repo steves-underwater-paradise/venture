@@ -1901,7 +1901,7 @@ hash = "4ec6dfd2bef3d41f93954211c974e882fdee7b7630870a4848a75f1cffb64ed7"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_altitude/data/venture/worldgen/bigglobe_column_value/continents/altitude.json"
-hash = "5f899d9503f53fe7bb200255dafef5c83111358747c7bbc8d8e50022111e4266"
+hash = "feca4429aa0287bef643cb48de55622c5dcdf9fddb41c5a0d77a68c75b45185c"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_altitude/pack.mcmeta"
@@ -1974,6 +1974,26 @@ hash = "5bc8fb053c6066f78b99049f71bf63ae14a3616cc138aec74446510d23a58291"
 [[files]]
 file = "resources/datapack/required/venture_world_generation_feature_dispatchers/pack.mcmeta"
 hash = "bc251a52d7641edee31e08c52d91b0cfc60b6ef493530d7db33e2b75dd8cfb3e"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_hilliness/data/venture/worldgen/bigglobe_column_value/continents/hilliness.json"
+hash = "8d8543e05759d73b9f9025b3954a29f95c7ff70ce24726a19cd4712751e6d4f2"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_hilliness/data/venture/worldgen/bigglobe_column_value/continents/hilliness_layer_1.json"
+hash = "5fae551bcd14886e255329c19bd820a35d94e23dc2299db35b9be0fefa897c4e"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_hilliness/data/venture/worldgen/bigglobe_column_value/continents/hilliness_layer_2.json"
+hash = "394011a64456caf3cb411618a29c5dce40ed0f3facdd959bda5adeef585208fb"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_hilliness/data/venture/worldgen/bigglobe_column_value/continents/hilliness_type.json"
+hash = "d9e8f979a4c7905d940b3e296ecc3524169b7aee58e73dc79ba92b759b95fae6"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_hilliness/pack.mcmeta"
+hash = "f5e97e78f78b1c06cc4f1cae6cfc1f8ae736f7286a8d45004ddca3e9a05b5365"
 
 [[files]]
 file = "resources/datapack/required/venture_world_generation_moisture/data/venture/worldgen/bigglobe_column_value/continents/moisture.json"
