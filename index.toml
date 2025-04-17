@@ -969,6 +969,11 @@ hash = "3ab2a98521f7c1acacaf125f280aa4bd281be0577364b537e2cd22ebb049be3d"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "b8342cb6ba69db1fe5d354c5b077b0e7f7921bf45920ca9dc552260196cea915"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "8b87f840fda9abc58135f1abb48e864111e58b2a7861c2b672f57f9f58eea46d"
 metafile = true
