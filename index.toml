@@ -2008,6 +2008,30 @@ file = "resources/datapack/required/venture_world_generation_moisture/pack.mcmet
 hash = "d098f425102c5d7e99922c203f9bbc2a4fa59c0dd3206a97c22c68a35f4c51c9"
 
 [[files]]
+file = "resources/datapack/required/venture_world_generation_plants/data/venture/bigglobe_script_files/continents/plants.gs"
+hash = "8c77a210696b27da7a0d1b002b09d9fe43df4b4e5cde4db4e23dcd5815537fa9"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_plants/data/venture/bigglobe_script_files/continents/plants/grass.gs"
+hash = "0bbc28c4cbc513b3c1e0734dbcf4ca92304353bf0df0b34faeb01066989eac60"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_plants/data/venture/tags/worldgen/bigglobe_feature_dispatchers/continents/feature_dispatchers.json"
+hash = "6e29970254fc5ac38da84be98ea5a5363b13d65955ea5a904a792b30715ab5ea"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_plants/data/venture/worldgen/bigglobe_feature_dispatchers/continents/plants.json"
+hash = "c19a3ad162742af0a35ab1726a45053c59f87424e1bcd178585f3bc117616c59"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_plants/data/venture/worldgen/configured_feature/continents/plants/grass.json"
+hash = "9e0e686b1a0b77f4f005615a57a1b657b05578fb6f39c6cc6ae6f800e6c0e396"
+
+[[files]]
+file = "resources/datapack/required/venture_world_generation_plants/pack.mcmeta"
+hash = "4cef5d2753431bf9c0885a4138c3b130c41a0a6a4696aa9076f1a6b6f3b00cf5"
+
+[[files]]
 file = "resources/datapack/required/venture_world_generation_temperature/data/venture/worldgen/bigglobe_column_value/continents/temperature.json"
 hash = "9bc310fa6366108da6d61d647795992cdf42e698d2d96133478acd836390c302"
 

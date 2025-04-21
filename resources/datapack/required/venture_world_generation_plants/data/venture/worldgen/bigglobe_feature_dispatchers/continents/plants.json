@@ -1,0 +1,6 @@
+{
+	"type": "script",
+	"dispatcher": {
+    "file": "venture:continents/plants"
+  }
+}
