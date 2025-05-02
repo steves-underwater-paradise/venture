@@ -1,13 +1,13 @@
 name = "Zipline"
-filename = "zipline-1.2.1+1.21.1.jar"
+filename = "zipline-1.2.1+1.21.1-bc25.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/crqH8IT5/versions/aY7Lxe1j/zipline-1.2.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/crqH8IT5/versions/1Ua8UGe3/zipline-1.2.1%2B1.21.1-bc25.jar"
 hash-format = "sha1"
-hash = "55202ccaf879c76fd12b9bbe70f682cf53516c16"
+hash = "7d43cc80fbe424349dcad95e2a4c386814190022"
 
 [update]
 [update.modrinth]
 mod-id = "crqH8IT5"
-version = "aY7Lxe1j"
+version = "1Ua8UGe3"

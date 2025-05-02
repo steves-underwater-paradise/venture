@@ -1,13 +1,13 @@
 name = "Boatism"
-filename = "boatism-0.2.3-1.21.1.jar"
+filename = "boatism-0.2.4-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XA2EooAt/versions/beXdwN8j/boatism-0.2.3-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/XA2EooAt/versions/qI55XaCl/boatism-0.2.4-1.21.1.jar"
 hash-format = "sha1"
-hash = "31a0ecd3ab67ae8ee62e0d1c86b1ca3b4a963f3a"
+hash = "97d8b775042f6af14f8192a20b27767cc1e8088a"
 
 [update]
 [update.modrinth]
 mod-id = "XA2EooAt"
-version = "beXdwN8j"
+version = "qI55XaCl"
